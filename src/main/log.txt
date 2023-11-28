@@ -1,0 +1,75 @@
+Customer Name: John Doe
+Ship id: 1
+Destination: Dubai
+Source: Chennai
+FinalWeight: 1800
+Ports Visited: [Chennai, Kochi, Mumbai, Dubai]
+Order Visited: [1, 2, 3, 4]
+Containers loaded: [Heavy, Heavy, Heavy]
+Customer's Shipment has Arrived at destination: Dubai
+************************************************LOG*******************************************************************************
+Customer Name: John
+Ship id: 2
+Destination: dubai
+Source: chennai
+FinalWeight: 250
+Ports Visited: [Dubai]
+Order Visited: [1]
+Containers loaded: [Basic, Basic, Basic]
+Customer's Shipment is Delayed 
+Current Port: Dubai
+************************************************LOG*******************************************************************************
+Customer Name: John
+Ship id: 3
+Destination: Dubai
+Source: Chennai
+FinalWeight: 2000
+Ports Visited: [Chennai, Kochi]
+Order Visited: [1, 2]
+Containers loaded: [Basic, HeavyReferegerated, Basic]
+Customer's Shipment is Delayed 
+Current Port: Kochi
+************************************************LOG*******************************************************************************
+Customer Name: Surya
+Ship id: 41
+Destination: Dubai
+Source: Chennai
+FinalWeight: 900
+Ports Visited: [Kochi]
+Order Visited: [1]
+Containers loaded: [Heavy, Heavy]
+Customer's Shipment is Delayed 
+Current Port: Kochi
+************************************************LOG*******************************************************************************
+Customer Name: Sridhar
+Ship id: 74
+Destination: Dubai
+Source: Chennai
+FinalWeight: 500
+Ports Visited: [Kochi]
+Order Visited: [1]
+Containers loaded: [Heavy, Basic]
+Customer's Shipment is Delayed 
+Current Port: Kochi
+************************************************LOG*******************************************************************************
+Customer Name: regan
+Ship id: 43
+Destination: Dubai
+Source: Chennai
+FinalWeight: 550
+Ports Visited: [Kochi]
+Order Visited: [1]
+Containers loaded: [Basic, HeavyReferegerated]
+Customer's Shipment is Delayed 
+Current Port: Kochi
+************************************************LOG*******************************************************************************
+Customer Name: sridhar
+Ship id: 30
+Destination: Dubai
+Source: Chennai
+FinalWeight: 800
+Ports Visited: [Kochi]
+Order Visited: [1]
+Containers loaded: [HeavyReferegerated, Basic, HeavyLiquid]
+Customer's Shipment is Delayed 
+Current Port: Kochi

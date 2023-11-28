@@ -1,0 +1,54 @@
+1
+John
+123 Main St
+ABC123
+2
+Chennai
+5
+200
+300
+L
+0************************************************LOG*******************************************************************************
+Customer Name: John
+Customer Address: Doe
+Customer Identity: 123
+************************************************LOG*******************************************************************************
+Customer Name: John
+Customer Address: Doe
+Customer Identity: 123
+************************************************LOG*******************************************************************************
+Customer Name: John
+Customer Address: Doe
+Customer Identity: 123-MainSt
+************************************************LOG*******************************************************************************
+Customer Name: John
+Customer Address: 123
+Customer Identity: Main
+************************************************LOG*******************************************************************************
+Customer Name: John
+Customer Address: 123-MainSt
+Customer Identity: ID123
+************************************************LOG*******************************************************************************
+Customer Name: Surya
+Customer Address: Tamilnadu
+Customer Identity: CT3701
+************************************************LOG*******************************************************************************
+Customer Name: Sridhar
+Customer Address: Tamilnadu
+Customer Identity: CT3709
+************************************************LOG*******************************************************************************
+Customer Name: Sridhar
+Customer Address: Tamilnadu
+Customer Identity: CT3709
+************************************************LOG*******************************************************************************
+Customer Name: surya
+Customer Address: Tamilnadu
+Customer Identity: CT3701
+************************************************LOG*******************************************************************************
+Customer Name: regan
+Customer Address: Tamilnadu
+Customer Identity: CT3711
+************************************************LOG*******************************************************************************
+Customer Name: sridhar
+Customer Address: Tamilnadu
+Customer Identity: CT3709
